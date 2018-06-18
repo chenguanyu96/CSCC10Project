@@ -1,0 +1,13 @@
+CSCC10 Phase 3 Design Choices:
+- Consistent display
+- Easy navigation
+- Functional hyperlinks
+- Sensible categorization
+- Resolve Scaling issues
+- Neutral, consistent font size
+- Grid Card Layout
+	- symmetrical
+	- keywords
+		- destination, duration, date
+- Photo gallery
+	-floating left and right arrows
